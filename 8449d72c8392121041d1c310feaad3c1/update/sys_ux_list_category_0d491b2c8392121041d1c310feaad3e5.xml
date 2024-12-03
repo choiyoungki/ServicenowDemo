@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_list_category">
+    <sys_ux_list_category action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <configuration display_value="Creator Studio Workspace">ae8cff95779a311055f78f71ef5a99a6</configuration>
+        <description/>
+        <order>100</order>
+        <sys_class_name>sys_ux_list_category</sys_class_name>
+        <sys_created_by>choiyk02</sys_created_by>
+        <sys_created_on>2024-12-03 02:06:19</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>0d491b2c8392121041d1c310feaad3e5</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>SNOW-Test01 Requests</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="SNOW-Test01" source="x_746883_snow_te_0">8449d72c8392121041d1c310feaad3c1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="SNOW-Test01">8449d72c8392121041d1c310feaad3c1</sys_scope>
+        <sys_update_name>sys_ux_list_category_0d491b2c8392121041d1c310feaad3e5</sys_update_name>
+        <sys_updated_by>choiyk02</sys_updated_by>
+        <sys_updated_on>2024-12-03 02:06:19</sys_updated_on>
+        <title>SNOW-Test01 Requests</title>
+    </sys_ux_list_category>
+</record_update>
