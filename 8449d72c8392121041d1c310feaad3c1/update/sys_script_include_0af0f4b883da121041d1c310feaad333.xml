@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_script_include">
+    <sys_script_include action="INSERT_OR_UPDATE">
+        <access>package_private</access>
+        <active>true</active>
+        <api_name>x_746883_snow_te_0.TestScriptInclude</api_name>
+        <caller_access/>
+        <client_callable>false</client_callable>
+        <description/>
+        <mobile_callable>false</mobile_callable>
+        <name>TestScriptInclude</name>
+        <script><![CDATA[var TestScriptInclude = Class.create();
+TestScriptInclude.prototype = {
+    initialize: function() {
+	//Added Script Include
+	//Added Comment 1
+	//Added Comment 2
+	//Added Comment 3
+	//Added Comment 4
+	//Added Comment 5
+	//Added Comment 6	
+    },
+
+    type: 'TestScriptInclude'
+};]]></script>
+        <sys_class_name>sys_script_include</sys_class_name>
+        <sys_created_by>choiyk02</sys_created_by>
+        <sys_created_on>2024-12-03 08:33:11</sys_created_on>
+        <sys_id>0af0f4b883da121041d1c310feaad333</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>TestScriptInclude</sys_name>
+        <sys_package display_value="SNOW-Test01" source="x_746883_snow_te_0">8449d72c8392121041d1c310feaad3c1</sys_package>
+        <sys_policy>read</sys_policy>
+        <sys_scope display_value="SNOW-Test01">8449d72c8392121041d1c310feaad3c1</sys_scope>
+        <sys_update_name>sys_script_include_0af0f4b883da121041d1c310feaad333</sys_update_name>
+        <sys_updated_by>choiyk02</sys_updated_by>
+        <sys_updated_on>2024-12-03 08:33:11</sys_updated_on>
+    </sys_script_include>
+    <sys_es_latest_script action="INSERT_OR_UPDATE">
+        <id>0af0f4b883da121041d1c310feaad333</id>
+        <sys_created_by>choiyk02</sys_created_by>
+        <sys_created_on>2024-12-03 08:33:11</sys_created_on>
+        <sys_id>00d170bc83da121041d1c310feaad3f7</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>choiyk02</sys_updated_by>
+        <sys_updated_on>2024-12-03 08:33:11</sys_updated_on>
+        <table>sys_script_include</table>
+        <use_es_latest>true</use_es_latest>
+    </sys_es_latest_script>
+</record_update>
