@@ -1,3 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?><database>
-    <element audit="true" db_object_id="d449d72c8392121041d1c310feaad3cc" extends="sn_creatorstudio_task" label="SNOW-Test01 Request" max_length="40" name="x_746883_snow_te_0_request" type="collection"/>
-</database>
