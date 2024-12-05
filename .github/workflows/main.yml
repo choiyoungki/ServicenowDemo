@@ -1,13 +1,11 @@
- ServiceNowDevOpsChange :
+name : ServiceNowDevOpsChange 
+  
   # jobs that must complete successfully before this job will run
-  needs: build
+needs: build
   # type of machine to run the job on
-  runs-on: ubuntu-latest
-  name: 'ServiceNow DevOps Change'
-  steps:
-    - name: ServiceNow Change
-      uses: ServiceNow/servicenow-devops-change@v3.0.0
-      with:
+runs-on: ubuntu-latest
+uses: ServiceNow/servicenow-devops-change@v3.0.0
+ with:
         # Devops Integration Token
         devops-integration-token: ${{ secrets.SN_DEVOPS_TOKEN }}
         # ServiceNow Instance URL
